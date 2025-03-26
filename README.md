@@ -6,7 +6,7 @@
 - 📫 How to reach me:  
   - 📧 [Email Me](mailto:thirumalaimurugavel.com)  
   - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/thirumalai-m-384542308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-  <!-- 🌍 [Portfolio Website](https://yourportfolio.com)  --->
+  -🌍 [Portfolio Website](https://thiru-personal-portfolio.vercel.app) 
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I was awarded 'Designer of the Year' at a Flutter Fiesta workshop and won first place in the Conceptual Colloquium!**  
 
